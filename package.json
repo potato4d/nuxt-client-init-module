@@ -1,4 +1,10 @@
 {
+  "name": "nuxt-client-init-module",
+  "version": "0.1.0",
+  "description": "Provide client version of `nuxtServerInit`.",
+  "main": "lib/module.js",
+  "license": "MIT",
+  "repository": "https://github.com/potato4d/nuxt-client-init-module",
   "scripts": {
     "dev": "nuxt test/fixture",
     "test": "jest"
