@@ -45,7 +45,7 @@ describe('basic', () => {
 
   test('on Client', async () => {
     await page.goto(url('/'))
-    await page.waitFor(5000)
+    await page.waitFor(400)
     const val = await page.evaluate(() => (document.querySelector('[data-test-id="input"]').value))
     expect(val).toBe('true')
   })
