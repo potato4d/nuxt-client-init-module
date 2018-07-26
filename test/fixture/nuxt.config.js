@@ -5,6 +5,6 @@ module.exports = {
   srcDir: __dirname,
   modules: [
     '~/../../lib/module'
-  ]
-  // dev: false
+  ],
+  dev: (process.env.NODE_ENV !== 'test' && process.env.NODE_ENV === 'production')
 }

@@ -8,10 +8,12 @@
   "scripts": {
     "dev": "nuxt test/fixture",
     "test": "jest",
+    "test:coverage": "yarn test --coverage",
     "release": "standard-version && git push --follow-tags"
   },
   "devDependencies": {
     "cheerio": "^1.0.0-rc.2",
+    "codecov": "^3.0.4",
     "jest": "^23.4.1",
     "jsdom": "^11.11.0",
     "nuxt": "^1.4.1",

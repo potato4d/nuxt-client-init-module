@@ -8,7 +8,7 @@ const config = require('./fixture/nuxt.config')
 const url = path => `http://localhost:3000${path}`
 const get = path => request(url(path))
 
-jest.setTimeout(100000)
+jest.setTimeout(10000)
 
 describe('basic', () => {
   let nuxt
@@ -23,7 +23,7 @@ describe('basic', () => {
       await nuxt.listen(3000)
     }
     const createBrowser = async () => {
-      browser = await puppeteer.launch({ headless: false, timeout: 0 })
+      browser = await puppeteer.launch({ headless: process.env.NODE_ENV !== 'development', timeout: 0 })
       page = await browser.newPage()
     }
     await Promise.all([
