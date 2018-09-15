@@ -30,6 +30,16 @@
         "code",
         "bug"
       ]
+    },
+    {
+      "login": "miyaoka",
+      "name": "Masaya Kazama",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1443118?v=4",
+      "profile": "https://miyaoka.github.io/",
+      "contributions": [
+        "code",
+        "bug"
+      ]
     }
   ]
 }
