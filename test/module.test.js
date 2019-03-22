@@ -10,6 +10,12 @@ const get = path => request(url(path))
 
 jest.setTimeout(10000)
 
+const delay = (ms) => (new Promise((resolve) => {
+  setTimeout(() => {
+    resolve()
+  }, ms)
+}))
+
 describe('basic', () => {
   let nuxt
   let page
@@ -20,6 +26,7 @@ describe('basic', () => {
 
     const createNuxt = async () => {
       await new Builder(nuxt).build()
+      await delay(1000)
       await nuxt.listen(3000)
     }
     const createBrowser = async () => {
@@ -30,7 +37,7 @@ describe('basic', () => {
       createNuxt(),
       createBrowser()
     ])
-  }, 60000)
+  }, 300000)
 
   afterAll(async () => {
     await browser.close()
@@ -38,6 +45,7 @@ describe('basic', () => {
   })
 
   test('on Server', async () => {
+    await delay(1000)
     const html = await get('/')
     const $ = cheerio.load(html)
     expect($('[data-test-id="input"]').val()).toBe('false')
