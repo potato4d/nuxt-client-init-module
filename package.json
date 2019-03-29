@@ -17,7 +17,7 @@
     "jest": "24.5.0",
     "jsdom": "14.0.0",
     "nuxt": "2.5.1",
-    "puppeteer": "1.13.0",
+    "puppeteer": "1.14.0",
     "standard-version": "5.0.2"
   },
   "jest": {
