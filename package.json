@@ -14,7 +14,7 @@
   "devDependencies": {
     "cheerio": "1.0.0-rc.2",
     "codecov": "3.3.0",
-    "jest": "24.7.0",
+    "jest": "24.7.1",
     "jsdom": "14.0.0",
     "nuxt": "2.5.1",
     "puppeteer": "1.14.0",
