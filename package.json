@@ -12,7 +12,7 @@
     "release": "standard-version && git push --follow-tags"
   },
   "devDependencies": {
-    "cheerio": "1.0.0-rc.2",
+    "cheerio": "1.0.0-rc.3",
     "codecov": "3.3.0",
     "jest": "24.7.1",
     "jsdom": "14.0.0",
