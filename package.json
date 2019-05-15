@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "cheerio": "1.0.0-rc.3",
-    "codecov": "3.4.0",
+    "codecov": "3.5.0",
     "jest": "24.8.0",
     "jsdom": "15.1.0",
     "nuxt": "2.6.3",
