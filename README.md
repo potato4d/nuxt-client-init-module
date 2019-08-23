@@ -32,8 +32,8 @@ on nuxt.config.js
   ...
   modules: [
    'nuxt-client-init-module'
- ]
- ...
+  ]
+  ...
 }
 ```
 
