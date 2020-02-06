@@ -62,16 +62,20 @@ MIT
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://potato4d.me"><img src="https://avatars0.githubusercontent.com/u/6993514?v=4" width="100px;" alt="HANATANI Takuma"/><br /><sub><b>HANATANI Takuma</b></sub></a><br /><a href="https://github.com/potato4d/nuxt-client-init-module/commits?author=potato4d" title="Code">💻</a> <a href="https://github.com/potato4d/nuxt-client-init-module/issues?q=author%3Apotato4d" title="Bug reports">🐛</a> <a href="#review-potato4d" title="Reviewed Pull Requests">👀</a> <a href="#question-potato4d" title="Answering Questions">💬</a></td>
-    <td align="center"><a href="https://github.com/Tosuke"><img src="https://avatars2.githubusercontent.com/u/13393900?v=4" width="100px;" alt="tosuke"/><br /><sub><b>tosuke</b></sub></a><br /><a href="https://github.com/potato4d/nuxt-client-init-module/issues?q=author%3ATosuke" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="https://miyaoka.github.io/"><img src="https://avatars2.githubusercontent.com/u/1443118?v=4" width="100px;" alt="Masaya Kazama"/><br /><sub><b>Masaya Kazama</b></sub></a><br /><a href="https://github.com/potato4d/nuxt-client-init-module/issues?q=author%3Amiyaoka" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="https://github.com/NomNes"><img src="https://avatars2.githubusercontent.com/u/12662211?v=4" width="100px;" alt="Nikita Umnov"/><br /><sub><b>Nikita Umnov</b></sub></a><br /><a href="https://github.com/potato4d/nuxt-client-init-module/commits?author=NomNes" title="Code">💻</a></td>
+    <td align="center"><a href="https://potato4d.me"><img src="https://avatars0.githubusercontent.com/u/6993514?v=4" width="100px;" alt=""/><br /><sub><b>HANATANI Takuma</b></sub></a><br /><a href="https://github.com/potato4d/nuxt-client-init-module/commits?author=potato4d" title="Code">💻</a> <a href="https://github.com/potato4d/nuxt-client-init-module/issues?q=author%3Apotato4d" title="Bug reports">🐛</a> <a href="https://github.com/potato4d/nuxt-client-init-module/pulls?q=is%3Apr+reviewed-by%3Apotato4d" title="Reviewed Pull Requests">👀</a> <a href="#question-potato4d" title="Answering Questions">💬</a></td>
+    <td align="center"><a href="https://github.com/Tosuke"><img src="https://avatars2.githubusercontent.com/u/13393900?v=4" width="100px;" alt=""/><br /><sub><b>tosuke</b></sub></a><br /><a href="https://github.com/potato4d/nuxt-client-init-module/issues?q=author%3ATosuke" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://miyaoka.github.io/"><img src="https://avatars2.githubusercontent.com/u/1443118?v=4" width="100px;" alt=""/><br /><sub><b>Masaya Kazama</b></sub></a><br /><a href="https://github.com/potato4d/nuxt-client-init-module/issues?q=author%3Amiyaoka" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/NomNes"><img src="https://avatars2.githubusercontent.com/u/12662211?v=4" width="100px;" alt=""/><br /><sub><b>Nikita Umnov</b></sub></a><br /><a href="https://github.com/potato4d/nuxt-client-init-module/commits?author=NomNes" title="Code">💻</a></td>
+    <td align="center"><a href="http://kamikazechaser.live"><img src="https://avatars2.githubusercontent.com/u/18488025?v=4" width="100px;" alt=""/><br /><sub><b>Mohammed Sohail</b></sub></a><br /><a href="https://github.com/potato4d/nuxt-client-init-module/commits?author=kamikazechaser" title="Documentation">📖</a></td>
   </tr>
 </table>
 
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
