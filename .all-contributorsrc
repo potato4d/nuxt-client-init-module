@@ -47,7 +47,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "kamikazechaser",
+      "name": "Mohammed Sohail",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/18488025?v=4",
+      "profile": "http://kamikazechaser.live",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
