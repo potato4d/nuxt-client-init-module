@@ -4,7 +4,7 @@
 [![donate: Patreon](https://img.shields.io/badge/donate-patreon-orange.svg?style=flat-square)](https://www.patreon.com/potato4d)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![NPM version](https://img.shields.io/npm/v/nuxt-client-init-module.svg?style=flat)](https://npmjs.com/package/nuxt-client-init-module)
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors)
 [![NPM downloads](https://img.shields.io/npm/dm/nuxt-client-init-module.svg?style=flat)](https://npmjs.com/package/nuxt-client-init-module)
 [![codecov](https://codecov.io/gh/potato4d/nuxt-client-init-module/branch/master/graph/badge.svg)](https://codecov.io/gh/potato4d/nuxt-client-init-module)
 
