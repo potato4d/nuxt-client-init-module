@@ -71,6 +71,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="https://miyaoka.github.io/"><img src="https://avatars2.githubusercontent.com/u/1443118?v=4" width="100px;" alt=""/><br /><sub><b>Masaya Kazama</b></sub></a><br /><a href="https://github.com/potato4d/nuxt-client-init-module/issues?q=author%3Amiyaoka" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/NomNes"><img src="https://avatars2.githubusercontent.com/u/12662211?v=4" width="100px;" alt=""/><br /><sub><b>Nikita Umnov</b></sub></a><br /><a href="https://github.com/potato4d/nuxt-client-init-module/commits?author=NomNes" title="Code">💻</a></td>
     <td align="center"><a href="http://kamikazechaser.live"><img src="https://avatars2.githubusercontent.com/u/18488025?v=4" width="100px;" alt=""/><br /><sub><b>Mohammed Sohail</b></sub></a><br /><a href="https://github.com/potato4d/nuxt-client-init-module/commits?author=kamikazechaser" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/colmer"><img src="https://avatars1.githubusercontent.com/u/4122445?v=4" width="100px;" alt=""/><br /><sub><b>Anton Sitnikov</b></sub></a><br /><a href="https://github.com/potato4d/nuxt-client-init-module/commits?author=colmer" title="Documentation">📖</a></td>
   </tr>
 </table>
 
