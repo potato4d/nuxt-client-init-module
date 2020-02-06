@@ -25,9 +25,9 @@ $ yarn add nuxt-client-init-module
 
 ## Usage
 
-on nuxt.config.js
+in nuxt.config.js
 
-```
+```js
 {
   ...
   modules: [
@@ -37,15 +37,17 @@ on nuxt.config.js
 }
 ```
 
-on store/index.js
+in store/index.js
 
-```
+```js
 export const actions = {
   nuxtClientInit({ commit }, context) {
     // code
   }
 }
 ```
+
+**Note:** When working with other modules (e.g. axios) that are needed during `nuxtClientInit`, `nuxt-client-init-module` should appear earlier in the `modules` section of `nuxt.config.js` for correct functionality.
 
 ## Author
 
