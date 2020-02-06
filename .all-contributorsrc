@@ -47,7 +47,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "colmer",
+      "name": "Anton Sitnikov",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/4122445?v=4",
+      "profile": "https://github.com/colmer",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
