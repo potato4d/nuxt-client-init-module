@@ -1,11 +1,5 @@
 {
   "extends": [
-    "config:base"
-  ],
-  "patch": {
-    "automerge": true
-  },
-  "minor": {
-    "groupName": "minor dependencies"
-  }
+    "@elevenback"
+  ]
 }
