@@ -14,10 +14,10 @@
   "devDependencies": {
     "cheerio": "1.0.0-rc.3",
     "codecov": "3.7.2",
-    "jest": "26.4.2",
-    "jsdom": "16.2.2",
+    "jest": "26.5.0",
+    "jsdom": "16.4.0",
     "nuxt": "2.14.6",
-    "puppeteer": "3.0.4",
+    "puppeteer": "3.3.0",
     "standard-version": "8.0.2"
   },
   "jest": {
