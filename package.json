@@ -18,7 +18,7 @@
     "jsdom": "16.4.0",
     "nuxt": "2.14.12",
     "puppeteer": "5.5.0",
-    "standard-version": "9.0.0"
+    "standard-version": "9.1.0"
   },
   "jest": {
     "testEnvironment": "node"
