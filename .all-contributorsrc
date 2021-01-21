@@ -65,6 +65,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "simoneldevig",
+      "name": "Simon Eldevig",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6176830?v=4",
+      "profile": "http://simoneldevig.dk/",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
