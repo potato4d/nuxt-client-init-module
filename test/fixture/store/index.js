@@ -8,7 +8,7 @@ export const getters = {
 
 export const mutations = {
   dispatchAction(state) {
-    state.isDispatched = true
+    state.isDispatched = !state.isDispatched
   }
 }
 
