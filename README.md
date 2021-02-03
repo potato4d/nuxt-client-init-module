@@ -74,6 +74,9 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="https://github.com/colmer"><img src="https://avatars1.githubusercontent.com/u/4122445?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anton Sitnikov</b></sub></a><br /><a href="https://github.com/potato4d/nuxt-client-init-module/commits?author=colmer" title="Documentation">📖</a></td>
     <td align="center"><a href="http://simoneldevig.dk/"><img src="https://avatars.githubusercontent.com/u/6176830?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Simon Eldevig</b></sub></a><br /><a href="https://github.com/potato4d/nuxt-client-init-module/issues?q=author%3Asimoneldevig" title="Bug reports">🐛</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/DmitryBelichack"><img src="https://avatars.githubusercontent.com/u/14155180?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dmitry Belichack</b></sub></a><br /><a href="https://github.com/potato4d/nuxt-client-init-module/commits?author=DmitryBelichack" title="Code">💻</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
