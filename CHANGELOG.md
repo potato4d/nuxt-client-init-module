@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/potato4d/nuxt-client-init-module/compare/v0.1.10...v0.2.0) (2021-02-03)
+
+
+### Document Changes
+
+* add simoneldevig as a contributor ([#153](https://github.com/potato4d/nuxt-client-init-module/issues/153)) ([10e53b1](https://github.com/potato4d/nuxt-client-init-module/commit/10e53b1bc206ace9b4cf32bc423bf50f09420b8d))
+
 ### [0.1.10](https://github.com/potato4d/nuxt-client-init-module/compare/v0.1.9...v0.1.10) (2021-01-21)
 
 

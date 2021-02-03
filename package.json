@@ -1,6 +1,6 @@
 {
   "name": "nuxt-client-init-module",
-  "version": "0.1.10",
+  "version": "0.2.0",
   "description": "Provide client version of `nuxtServerInit`.",
   "main": "lib/module.js",
   "license": "MIT",
