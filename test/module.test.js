@@ -57,4 +57,20 @@ describe('basic', () => {
     const val = await page.evaluate(() => (document.querySelector('[data-test-id="input"]').value))
     expect(val).toBe('true')
   })
+
+  test('sequence', async () => {
+    await page.goto(url('/'))
+    await page.waitFor(400)
+
+    const callSequence = await page.evaluate(
+      () => ([].slice.call(document.querySelector('[class="sequence__list"]').children).map(_ => _.innerText))
+    )
+
+    expect(callSequence).toEqual(expect.arrayContaining([
+      "1.plugin",
+      "2.plugin",
+      "3.plugin",
+      "nuxtClientInit"
+    ]));
+  })
 })
