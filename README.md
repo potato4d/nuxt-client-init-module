@@ -13,8 +13,8 @@
 `nuxt-client-init-module` provides Nuxt.js with the ability to inject processing at client initialization.
 Just like `nuxtServerInit`, it is possible to implement the` nuxtClientInit` action, which is executed only on the client-side rendering, in the root Vuex module.
 
-<a href="https://patreon.com/potato4d">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="50">
+<a href="https://www.buymeacoffee.com/potato4d" class="block mx-auto" target="_blank">
+  <img class="shadow-md rounded-lg mx-auto" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="162" alt="Buy Me A Coffee" />
 </a>
 
 ## Installation
