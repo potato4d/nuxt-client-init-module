@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.3.0](https://github.com/potato4d/nuxt-client-init-module/compare/v0.2.0...v0.3.0) (2021-03-01)
+
+
+### Document Changes
+
+* add DmitryBelichack as a contributor ([#156](https://github.com/potato4d/nuxt-client-init-module/issues/156)) ([113bb66](https://github.com/potato4d/nuxt-client-init-module/commit/113bb666ba09f7a3332455b095f405bafa8cc7e3))
+
+
+### Chores
+
+* **deps:** update circleci/node docker tag to v12.20.2 ([4b5bfe6](https://github.com/potato4d/nuxt-client-init-module/commit/4b5bfe6964095ab0eb1587e61d354d44841b394a))
+* **deps:** update circleci/node docker tag to v12.21.0 ([#163](https://github.com/potato4d/nuxt-client-init-module/issues/163)) ([ab86404](https://github.com/potato4d/nuxt-client-init-module/commit/ab864040f62af7798b3f80a6f29261a81d0098e8))
+* **deps:** update dependency nuxt to v2.15.2 ([#161](https://github.com/potato4d/nuxt-client-init-module/issues/161)) ([d96e6e6](https://github.com/potato4d/nuxt-client-init-module/commit/d96e6e6f2b12082b8f8542496dcde5a434d37d58))
+* **deps:** update dependency puppeteer to v8 ([#164](https://github.com/potato4d/nuxt-client-init-module/issues/164)) ([2233ea1](https://github.com/potato4d/nuxt-client-init-module/commit/2233ea1d21cfa59db46715de4d729522af588dfe))
+* **deps:** update dependency standard-version to v9.1.1 ([#162](https://github.com/potato4d/nuxt-client-init-module/issues/162)) ([ba59e44](https://github.com/potato4d/nuxt-client-init-module/commit/ba59e4420ab7843562c682e737133409887450ca))
+
 ## [0.2.0](https://github.com/potato4d/nuxt-client-init-module/compare/v0.1.10...v0.2.0) (2021-02-03)
 
 
