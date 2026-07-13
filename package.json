@@ -20,7 +20,7 @@
     "puppeteer": "13.7.0",
     "request": "2.88.2",
     "request-promise-native": "1.0.9",
-    "commit-and-tag-version": "9.5.0"
+    "commit-and-tag-version": "12.7.3"
   },
   "jest": {
     "testEnvironment": "node"
